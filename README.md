@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">A passionate full stack developer from India 🌍</h3>
+<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
+<h3 align="center">A passionate Freelance full stack developer from India 🌍</h3>
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **SEO Optimization**
 
-- 👨‍💻 All of my projects are available at [https://vivekboiii.vercel.app/](https://vivekboiii.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://vishal-portfolio-dev.vercel.app/](https://vishal-portfolio-dev.vercel.app/)
 
-- 📫 How to reach me **yadav100adu@gmail.com**
+- 📫 How to reach me **vishal.kumar@bitmeerut.co.in**
 
 <h3>Tech Stack and skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,gcp,c,cpp,bootstrap,express,linux,materialui,mongodb,nodejs,postman,react,redux,sass,tailwind,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,css,c,cpp,bootstrap,express,linux,materialui,mongodb,nodejs,postman,react,redux,sass,tailwind,vercel,netlify,html,docker,figma,jest,md,pug,vite)](https://skillicons.dev)
 
 ---
 
