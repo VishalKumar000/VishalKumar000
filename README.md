@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://vishal-portfolio-dev.vercel.app/](https://vishal-portfolio-dev.vercel.app/)
 
-- 📫 How to reach me **vishal.kumar@bitmeerut.co.in**
-
 <h3>Tech Stack and skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,css,c,cpp,bootstrap,express,linux,materialui,mongodb,nodejs,postman,react,redux,sass,tailwind,vercel,netlify,html,docker,figma,jest,md,pug,vite)](https://skillicons.dev)
