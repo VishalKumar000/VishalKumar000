@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Freelance full stack developer from India 🌍</h3>
 
-- 🌱 I’m currently learning **SEO Optimization**
-
-- 👨‍💻 All of my projects are available at [https://vishal-portfolio-dev.vercel.app/](https://vishal-portfolio-dev.vercel.app/)
-
 <h3>Tech Stack and skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,css,c,cpp,bootstrap,express,linux,materialui,mongodb,nodejs,postman,react,redux,sass,tailwind,vercel,netlify,html,docker,figma,jest,md,pug,vite)](https://skillicons.dev)
